@@ -62,7 +62,7 @@ if __name__ == "__main__":
         try:
             print("Calculadora")
             print("----------------------------------")
-            print("Operações disponíveis:")
+            print("Escolha uma das operações disponíveis:")
             print("+  Soma")
             print("-  Subtração")
             print("*  Multiplicação")
